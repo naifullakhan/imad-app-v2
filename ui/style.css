@@ -8,8 +8,8 @@ body {
     text-align: center;
 }
 
-.text-small {
-    font-size: 500%;
+.text-bold {
+    font-size: 300%;
 }
 
 .bold {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 400px;
+    height: 200px;
 }
 
